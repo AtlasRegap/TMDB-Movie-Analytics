@@ -8,7 +8,7 @@ This Power BI project analyzes top-rated movies from TMDB using metadata such as
 - Vote count vs. rating correlation
 
 ## 🛠 Tools Used:
-- Power BI (Data modeling, DAX, visualization)
+- Power BI (Data modeling, visualization)
 - Power Query (Data cleaning, genre mapping)
 - TMDB dataset (CSV format)
 
@@ -20,8 +20,3 @@ This Power BI project analyzes top-rated movies from TMDB using metadata such as
 ## 🔗 How to View:
 - Download the `.pbix` file
 - Open in Power BI Desktop
-
----
-
-**Created by Sagar**  
-[LinkedIn](www.linkedin.com/in/sagar-patel-92b385209) • [Portfolio](#)
